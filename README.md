@@ -2,7 +2,6 @@
 
 I am an aspiring software developer and a senior at Cal Poly Pomona, graduating in May 2022. 🎓
 
-- 📱 I'm currently working on a mobile app called [Lental](https://github.com/qdttdev/Lental) that keeps track of your Lend and Rental.
 - 🎯 Looking for internships and/or full-time positions.
 - 📍  Locate in Orange County, California.
 - ⭐ See my resume [here](https://qdttdev.github.io/qdttdev/).
