@@ -4,5 +4,4 @@ I am an aspiring software developer and a senior at Cal Poly Pomona, graduating 
 
 - 🎯 Looking for internships and/or full-time positions.
 - 📍  Locate in Orange County, California.
-- ⭐ See my resume [here](https://qdttdev.github.io/qdttdev/).
 
